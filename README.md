@@ -15,10 +15,10 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
     
 
-👀 I'm interested...
-🌱 I am currently learning **angular 15** and **AWS Services**
-🔭 I’m currently working on **a marketplace**
-⚡Fun fact **Yoda was going to be called Master Buffy**
+    👀 I'm interested...
+    🌱 I am currently learning **angular 15** and **AWS Services**
+    🔭 I’m currently working on **a marketplace**
+    ⚡Fun fact **Yoda was going to be called Master Buffy**
   <br/>
 </div>
 <div align="center">
