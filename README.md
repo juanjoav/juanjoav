@@ -12,12 +12,15 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">A passionate software developer from Colombia 🇨🇴</h3>
 
+<div align="center">
+    
+
 👀 I'm interested...
   - 🌱 I am currently learning **angular 15** and **AWS Services**
   - 🔭 I’m currently working on **a marketplace**
   - ⚡Fun fact **Yoda was going to be called Master Buffy**
   <br/>
-
+</div>
 <div align="center">
   <a href="mailto:juanjoav010@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
